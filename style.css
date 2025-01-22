@@ -19,7 +19,7 @@
     width: 140px;
 }
 .logo{
-    background-image: url("bhai2.png");
+    background-image: url("GET\ IT\ logo.png");
     background-size: cover;
     height: 85px;
     width: 100%;
@@ -216,7 +216,7 @@ footer{
 
 }
 .foot-panel1{
-    background-color: #37475a;
+    background-color: #272d34;
     color: white;
     height: 50px;
     display: flex;
@@ -227,7 +227,7 @@ footer{
     
 }
 #foot-social{
-    background-color:#37475a;
+    background-color:#272d34;
     height:35px;
     display:flex;
     justify-content:flex-start;
@@ -242,7 +242,7 @@ a{
     
 }
 .social-link{
-    background-color: #37475a;
+    background-color: #272d34;
     color: white;
 }
  #mail-address{
@@ -255,14 +255,7 @@ a{
     right: 23px ;
     align-self: center;
 }
-.foot-panel2{
-    background-color: #222f3d;
-    color: white;
-    height: 450px;
-    display: flex;
-    justify-content: space-evenly;
 
-}
 ul{
     margin-top: 20px;
 }
